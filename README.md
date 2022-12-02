@@ -11,3 +11,14 @@ This was created while following videos in 'Section 4: Deploy AWS Resources with
 
 # Endstate Logical Map
 ![end_state logical map](images/MTC_logical_map.png)
+
+
+
+
+
+
+
+
+# Source Course
+More Than Certified - Derek Morgan\
+https://courses.morethancertified.com/p/mtc-terraform
