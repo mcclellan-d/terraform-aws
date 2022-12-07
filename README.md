@@ -3,10 +3,17 @@ This was from the course 'More than Certified in Terraform' by Derek Moran.  Mos
 
 This was created while following videos in 'Section 4: Deploy AWS Resources with Terraform'.
 
-- Configuring providers
-- Deploying a VPC
-- refactoring code to not be "Hardcoded"
-- 
+## Lesson highlights
+* Configuring providers
+* Deploying a VPC
+* refactoring code to not be "Hardcoded"
+* VPC Security groups
+* Setting up RDS
+* ALB Security groups & Listener
+* Lifecycle policies
+* Deploying EC2 instances
+* Deploying NGINX with kubernetes
+
 
 # Endstate Logical Map
 ![end_state logical map](images/MTC_logical_map.png)
